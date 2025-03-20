@@ -1,1 +1,1 @@
-# Edunet-Internship-Project
+AI-Medical-Diagnosis
